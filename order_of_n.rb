@@ -9,5 +9,5 @@ def item_in_list(to_check, the_list)
   false
 end
 
-puts item_in_list(3, [1,2,3])
-puts item_in_list(4, [1,2,3])
+puts item_in_list(3, [1,2,3]) # will return true
+puts item_in_list(4, [1,2,3]) # will return false
