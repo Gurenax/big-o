@@ -11,3 +11,8 @@ order_of_n_squared.rb
 
 ## O(log n)
 order_of_log_n.rb
+
+### References
+https://justin.abrah.ms/computer-science/big-o-notation-explained.html
+http://blog.honeybadger.io/a-rubyist-s-guide-to-big-o-notation/
+https://gist.github.com/aspyct/3433278
